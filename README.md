@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/PKsong/Store/edit/main/REA
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Download App
-[itms-services://?action=download-manifest&url=https://github.com/PKsong/Store/blob/main/ipa/1.5.0/manifest.plist](DM1.5.0)
+[DM1.5.0](itms-services://?action=download-manifest&url=https://github.com/PKsong/Store/blob/main/ipa/1.5.0/manifest.plist)
 
 ### Markdown
 
